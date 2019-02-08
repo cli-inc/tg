@@ -1,4 +1,6 @@
-## Telegram messenger CLI [![Build Status](https://travis-ci.org/vysheng/tg.png)](https://travis-ci.org/vysheng/tg)
+## Telegram messenger CLI 
+
+[![Build Status](https://travis-ci.org/cli-inc/tg.svg?branch=master)](https://travis-ci.org/cli-inc/tg)
 
 Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
 
