@@ -203,4 +203,4 @@ If two or more peers have same name, <sharp>number is appended to the name. (for
 
 ## git
 
-This repo uses git [flow](https://github.com/petervanderdoes/gitflow-avh)
+This repo uses [git flow](https://github.com/petervanderdoes/gitflow-avh)
