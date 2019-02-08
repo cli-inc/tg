@@ -19,7 +19,7 @@
             "group": {
                 "kind": "build",
                 "isDefault": true
-            },
+            }
         },
         {
             "label": "clean",
@@ -29,6 +29,7 @@
                 "clean"
             ],
             "dependsOn": "configure",
+            "problemMatcher": []
         }
     ]
 }
