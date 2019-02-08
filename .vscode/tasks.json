@@ -15,7 +15,11 @@
             "dependsOn": "configure",
             "problemMatcher": [
                 "$gcc"
-            ]
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
         },
         {
             "label": "clean",
